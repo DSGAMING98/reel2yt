@@ -1,0 +1,40 @@
+# venv
+.venv/
+venv/
+env/
+ENV/
+
+# python cruft
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# env
+.env
+.env.*
+
+# streamlit
+.streamlit/*.toml
+.streamlit/secrets.toml
+
+# data/cache
+app/data/downloads/
+app/data/cache/
+app/data/tmp/
+app/data/**/*.wav
+app/data/**/*.mp4
+app/data/**/*.jpg
+
+# jupyter
+.ipynb_checkpoints/
+
+# os/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

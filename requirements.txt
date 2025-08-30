@@ -1,0 +1,12 @@
+streamlit
+yt-dlp
+opencv-python-headless
+Pillow
+imagehash
+numpy
+pydub
+librosa
+rapidfuzz
+requests
+python-dotenv
+youtube-search-python
